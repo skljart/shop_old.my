@@ -1,2 +1,1 @@
 # shop.my
-Key added.
