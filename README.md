@@ -1,1 +1,2 @@
 # shop.my
+Key added.
